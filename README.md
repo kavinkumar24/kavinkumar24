@@ -1,3 +1,4 @@
+<body>
 <h1 align="center">Hi 👋, I'm KAVIN KUMAR P</h1>
 <h3 align="center">Student. A self-taught developer with an interest in Computer Science and Technology.</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149387396.jpg?w=900&t=st=1679503257~exp=1679503857~hmac=98e2e6c56e620e9a4bb6240b575e0f50318fc4c73357dce9c41c097d56bcfee0">
@@ -24,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavinkumar24&show_icons=true&locale=en" alt="kavinkumar24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavinkumar24&" alt="kavinkumar24" /></p>
+</body>
