@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavinkumar24&label=Profile%20views&color=0e75b6&style=flat" alt="kavinkumar24" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Frameworks, Docker, Flutter**
+- 🌱 I’m currently learning **Full Stack Frameworks, Docker**
 
 - 📫 How to reach me **kavinpalanisamy242003@gmail.com**
 
