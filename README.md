@@ -9,7 +9,7 @@
 - 📫 How to reach me **kavinpalanisamy242003@gmail.com**
 
 - ⚡ Fun fact **It's time to focus**
-- <a href="https://kavinkumar.onrender.com/">Reach out</a>
+- <a href="https://kavinkumar.onrender.com/">Portfolio link</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
