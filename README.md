@@ -24,6 +24,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavinkumar24" alt="kavinkumar24" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavinkumar24&" alt="kavinkumar24" /></p>
 
 
